@@ -57,6 +57,10 @@ border: 1px solid var(--primary-color);
  padding: 0rem 0.5rem;
 }
 
+.spacebelow{
+    padding-bottom: 2.7rem;
+}
+
 
 /** Navigation**/
 
@@ -76,7 +80,9 @@ border-bottom-left-radius: 1rem;
 }
 .navigation .nav-brand{
      font-weight: bold;
-     font-size: 1.1rem;
+     font-size: 3rem;
+     padding-left: 3rem;
+     
 }
 
 .navigation .link-active{
